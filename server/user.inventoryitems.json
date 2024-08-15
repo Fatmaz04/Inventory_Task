@@ -1,0 +1,253 @@
+[{
+  "_id": {
+    "$oid": "66ba8034f4963dab95bddb3b"
+  },
+  "name": "Toyota Camry 2024",
+  "identifier": "CAR001",
+  "quantity": 5,
+  "price": 24000,
+  "supplier": "Toyota Motors",
+  "category": "Vehicle",
+  "description": "2024 Toyota Camry, 2.5L I4, Automatic, FWD, White",
+  "location": "Showroom A1"
+},
+{
+  "_id": {
+    "$oid": "66ba8034f4963dab95bddb3c"
+  },
+  "name": "Brake Pads - Front",
+  "identifier": "PART001",
+  "quantity": 100,
+  "price": 50,
+  "supplier": "Auto Parts Cop.",
+  "category": "Spare Partt",
+  "description": "Front brake pads compatible with Toyota Camry 2020-2023",
+  "location": "Warehouse B2"
+},
+{
+  "_id": {
+    "$oid": "66ba8034f4963dab95bddb3d"
+  },
+  "name": "All-Weather Floor Mats",
+  "identifier": "ACC001",
+  "quantity": 200,
+  "price": 75,
+  "supplier": "Auto Accessories Inc.",
+  "category": "Accessory",
+  "description": "All-weather floor mats for Toyota Camry, Set of 4",
+  "location": "Warehouse A1"
+},
+{
+  "_id": {
+    "$oid": "66ba8034f4963dab95bddb3e"
+  },
+  "name": "Michelin Tires - 225/45R17",
+  "identifier": "TIRE001",
+  "quantity": 50,
+  "price": 150,
+  "supplier": "Michelin",
+  "category": "Tires and Wheels",
+  "description": "Michelin all-season tires, 225/45R17, compatible with various models",
+  "location": "Tire Rack C1"
+},
+{
+  "_id": {
+    "$oid": "66ba8034f4963dab95bddb40"
+  },
+  "name": "Ford Mustang 2022",
+  "identifier": "CAR002",
+  "quantity": 3,
+  "price": 35000,
+  "supplier": "Ford Motors",
+  "category": "Vehicle",
+  "description": "2023 Ford Mustang, 5.0L V8, Manual, RWD, Red",
+  "location": "Showroom A2"
+},
+{
+  "_id": {
+    "$oid": "66ba8034f4963dab95bddb41"
+  },
+  "name": "Oil Filter - TOY123",
+  "identifier": "PART002",
+  "quantity": 150,
+  "price": 10,
+  "supplier": "Auto Parts Co.",
+  "category": "Spare Part",
+  "description": "Oil filter compatible with Toyota Camry 2018-2023",
+  "location": "Warehouse B3"
+},
+{
+  "_id": {
+    "$oid": "66ba8034f4963dab95bddb42"
+  },
+  "name": "Car Cover - Premium",
+  "identifier": "ACC002",
+  "quantity": 50,
+  "price": 120,
+  "supplier": "Auto Accessories Inc.",
+  "category": "Accessory",
+  "description": "Premium car cover, waterproof, suitable for sedans",
+  "location": "Warehouse A2"
+},
+{
+  "_id": {
+    "$oid": "66ba8034f4963dab95bddb43"
+  },
+  "name": "Alloy Wheel - 18 inch",
+  "identifier": "WHEEL001",
+  "quantity": 40,
+  "price": 250,
+  "supplier": "Wheel World",
+  "category": "Tires and Wheels",
+  "description": "18-inch alloy wheel, suitable for Toyota Camry 2020-2023",
+  "location": "Warehouse D1"
+},
+{
+  "_id": {
+    "$oid": "66ba8034f4963dab95bddb44"
+  },
+  "name": "Coolant - 1 Gallon",
+  "identifier": "FLUID002",
+  "quantity": 200,
+  "price": 20,
+  "supplier": "Fluid Masters",
+  "category": "Fluid",
+  "description": "Coolant for all Toyota vehicles, 1-gallon container",
+  "location": "Warehouse C4"
+},
+{
+  "_id": {
+    "$oid": "66bb77b853b19951d3d3a821"
+  },
+  "name": "New",
+  "identifier": "CD101",
+  "quantity": 50,
+  "location": "Cairo",
+  "description": "some words",
+  "category": "Fluid",
+  "supplier": "polo",
+  "price": 50000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc9a26331aef9005cfd764"
+  },
+  "name": "new one",
+  "identifier": "CS555",
+  "quantity": 2,
+  "location": "alex",
+  "description": "dkmmlek",
+  "category": "Spare Part",
+  "supplier": "Home",
+  "price": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bccb8868c8959a8b5e9b32"
+  },
+  "name": "new name",
+  "identifier": "k",
+  "quantity": 20,
+  "location": "l",
+  "description": "des",
+  "category": "Spare Part",
+  "supplier": "k",
+  "price": 20,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bce2c603013687ec343e23"
+  },
+  "name": "new item",
+  "identifier": "CD101",
+  "quantity": 10,
+  "location": "cairo",
+  "description": "new",
+  "category": "Accessory",
+  "supplier": "sup",
+  "price": 20,
+  "__v": 0
+},
+{
+  "_id": "66ba8034f4963dab95bddb3c",
+  "name": "Engine Block 2.0L",
+  "identifier": "MECH001",
+  "quantity": 10,
+  "price": 3200,
+  "supplier": "Auto Parts Co.",
+  "category": "Mechanical Parts",
+  "description": "2.0L Engine Block, suitable for mid-size sedans, cast iron.",
+  "location": "Warehouse B23"
+},
+{
+  "_id": "66ba8034f4963dab95bddb3d",
+  "name": "Brake Disc Set",
+  "identifier": "MECH002",
+  "quantity": 25,
+  "price": 180,
+  "supplier": "BrakeMaster Inc.",
+  "category": "Mechanical Parts",
+  "description": "High-performance brake discs, set of 4, compatible with various models.",
+  "location": "Warehouse A2"
+},
+{
+  "_id": "66ba8034f4963dab95bddb3f",
+  "name": "Alternator 12V",
+  "identifier": "ELEC001",
+  "quantity": 15,
+  "price": 150,
+  "supplier": "ElectroParts Ltd.",
+  "category": "Electrical Parts",
+  "description": "12V alternator for passenger vehicles, high efficiency.",
+  "location": "Warehouse D2"
+},
+{
+  "_id": "66ba8034f4963dab95bddb40",
+  "name": "Starter Motor 2.2kW",
+  "identifier": "ELEC002",
+  "quantity": 20,
+  "price": 200,
+  "supplier": "StartPower Co.",
+  "category": "Electrical Parts",
+  "description": "2.2kW starter motor, suitable for diesel engines.",
+  "location": "Warehouse D3"
+},
+{
+  "_id": "66ba8034f4963dab95bddb41",
+  "name": "Aluminum Alloy Sheet",
+  "identifier": "RAW001",
+  "quantity": 50,
+  "price": 800,
+  "supplier": "Metal Suppliers Inc.",
+  "category": "Raw Material",
+  "description": "High-grade aluminum alloy sheet, 3mm thickness.",
+  "location": "Warehouse E1"
+},
+{
+  "_id": "66ba8034f4963dab95bddb42",
+  "name": "Carbon Fiber Fabric",
+  "identifier": "RAW002",
+  "quantity": 30,
+  "price": 1200,
+  "supplier": "Advanced Composites",
+  "category": "Raw Material",
+  "description": "Carbon fiber fabric, 2x2 twill weave, high strength.",
+  "location": "Warehouse E2"
+},
+{
+  "_id": {
+    "$oid": "66bd244c1014aab47eb879c5"
+  },
+  "name": "new item",
+  "identifier": "CD1011",
+  "quantity": 125,
+  "location": "loc",
+  "description": "desc",
+  "category": "Vehicle",
+  "supplier": "sup",
+  "price": 100,
+  "__v": 0
+}]
