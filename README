@@ -1,9 +1,0 @@
-in order to run the code:
-server side:
-- cd server
-- npm i install
-- npm start
-client side:
-- cd client
-- npm i install
-- npm run dev
