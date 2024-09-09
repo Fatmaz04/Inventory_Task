@@ -18,6 +18,11 @@ This application features authentication and authorization, where users can view
 
 Here’s a [video demo] of the project in action:
 
+
+https://github.com/user-attachments/assets/2a2ef852-75b1-4906-b40d-7f25968c1106
+
+
+
 ---
 
 ## **Installation and Setup**
